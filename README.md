@@ -1,7 +1,7 @@
 # knapsack_problem
 Solution to the Knapsack Problem
 
-The program takes two parameters - the CSV file containing the values AND the max weight:
+The program takes two parameters - the CSV file containing the values and the max weight:
 
 # java Knapsack.java knapsack.csv 7
 -------------------------------------------------------------------------------------------
